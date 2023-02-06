@@ -1748,3 +1748,42 @@ svg.modal-icon-svg {
 .mobile-header-link-contact {
     color: var(--btn-hover-color);
 }
+
+
+
+
+
+
+
+.footer-contacts{
+    background-color: #FFFFFF;
+}
+
+
+
+.location{
+    margin:  0 0 72px 0;
+}
+.location_1 {
+    display: flex;
+    align-items: center;
+}
+.location-title{
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    margin: 0 0 72px 0;
+}
+
+.location-img{
+    width: 702px;
+    height: 100%;
+    margin: auto;
+
+}
+
+iframe{
+    margin: 40px auto 100px auto;
+}
